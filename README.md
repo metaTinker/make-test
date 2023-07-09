@@ -13,12 +13,12 @@ A sample Makefile which works with smaller C projects which have the following p
     Makefile
     README.md
   
-  ## Get Started 🚀  
-  To get started (all commands run from the project root directory):
-    1. Clone the repository.
-    2. Run ```make``` or ```make all``` to build the project.
-    3. Run ```make clean``` to clean the project.
-    4. Run ```make run``` to run the executable. 
+## Get Started 🚀  
+To get started (all commands run from the project root directory):
+  1. Clone the repository.
+  2. Run ```make``` or ```make all``` to build the project.
+  3. Run ```make clean``` to clean the project.
+  4. Run ```make run``` to run the executable. 
       
   ## Makefile features ✨  
   1. This Makefile is created to help build c projects without much modification, provided the project structure used is the same.
